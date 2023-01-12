@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student and frontend developer from Brazil.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/f2/08/baf2083197b402360c56400270558e68.gif">
 
-- 🔭 I’m currently working on [TO-DO]([https://github.com/marcus-feitosa/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras](https://github.com/marcus-feitosa/to-do))
+- I’m currently working on [TO DO](https://github.com/marcus-feitosa/to-do)
 
 - 🌱 I’m currently learning **React.JS**
 
