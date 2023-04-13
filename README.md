@@ -4,7 +4,7 @@
 
 - I’m currently working on [TO DO](https://github.com/marcus-feitosa/to-do)
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on [UFABC NEXT](https://github.com/marcus-feitosa/ufabc-next-web)
 
